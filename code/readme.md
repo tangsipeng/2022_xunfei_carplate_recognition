@@ -157,5 +157,6 @@ CUDA_VISIBLE_DEVICES=0 python run_LPRNet_xunfei6_1.py \
 ### 4.2、模型集成，生成 prediction_result目录下result.csv 文件  
 python mix_data4.py  
 
+## 代码参考：https://github.com/sirius-ai/LPRNet_Pytorch  
 ## 所有结束  
 
