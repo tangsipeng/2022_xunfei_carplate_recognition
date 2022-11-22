@@ -1,5 +1,6 @@
 ## 机动车车牌识别挑战赛 TOP1 方案 
-## 作者联系方式tangsipeng@139.com  
+###测试数据可以通过 https://challenge.xfyun.cn/topic/info?type=license-plate-recognition&option=stsj  下载后放到data/test 目录下
+###训练数据除了官方提供的train之外还需要自己下载ccpd2019和crpd两个数据集
 
 ## 零、整体思路介绍  
 ### 0.1、数据分析：增加训练数据ccpd2019和crpd两个数据集，提升精度  
